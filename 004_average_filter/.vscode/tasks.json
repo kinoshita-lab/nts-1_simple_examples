@@ -33,7 +33,7 @@
                 "-s",
                 "4",
                 "-u",
-                "filter.ntkdigunit"                
+                "avlpf.ntkdigunit"                
             ],
             "type": "shell",
         }
